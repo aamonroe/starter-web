@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ##Introduction
+This is a simple example for the demo that I keep opening nad closing!
 
 ## Purpose
 
