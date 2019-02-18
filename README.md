@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 Here is another update
 
 ##How to Get Started
-One last updtae to get back to where I need to be with the demo
+Please fork this repository and then issue full request for review
 
 ###Copyright
 2019 Git.Training
