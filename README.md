@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding a line for the rebasing example.
 
 ##Introduction
 This is a simple example for the demo that I keep opening nad closing!
