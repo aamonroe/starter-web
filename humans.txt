@@ -13,4 +13,6 @@ Aaron Monroe monroea@gmail.com @leanagility
 
     HTML5, CSS3
     jQuery, Modernizr
+	docker
+	terraform
 Please leave a review if you like this course
