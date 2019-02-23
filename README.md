@@ -17,3 +17,4 @@ Please fork this repository and then issue full request for review
 
 ###Copyright
 2019 Git.Training. All rights reserved
+Emergency update after stash
